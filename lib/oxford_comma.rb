@@ -1,5 +1,5 @@
 # .split(",") - separate items in arguments
-# .to_a - conver a range of number to an array
+# .to_a - convert a range of number to an array
 # .join - convert an array into a string
 def oxford_comma(array)
 case array.length
